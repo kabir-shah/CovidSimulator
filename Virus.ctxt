@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Virus
+comment0.text=\n\ Write\ a\ description\ of\ class\ Virus\ here.\n\ \n\ @author\ Kabir\ Shah\ &\ Oleg\ Bychenkov\n\ @version\ 1.0\n
+comment1.params=rotation
+comment1.target=Virus(int)
+comment2.params=
+comment2.target=void\ faceRandomDirection()
+comment2.text=\n\ Face\ a\ random\ angle.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Infect\ anyone\ that\ is\ touching\ the\ particle\ and\ remove\ the\ virus\ after\ it\ has\ gone\ past\ its\ lifespan.\n
+numComments=4
